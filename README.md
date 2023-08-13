@@ -20,3 +20,6 @@ Face Detection: The system assumes that the input image contains only one face, 
 Age Range: The model's predictions might be limited to a specific age range, and its accuracy might decrease for age groups outside the training data.
 Conclusion:
 The "Age and Gender Detection Using Deep Learning" Flask project is an exciting application that demonstrates the capabilities of deep learning in analyzing facial features for age and gender prediction. The real-time web interface enhances user experience, making it easy for users to explore the system's predictions. However, the project also acknowledges its limitations in terms of accuracy and the need for proper data representation. With further improvements and advancements in deep learning and dataset diversity, the system's performance could be enhanced in the future.
+
+https://projectworlds.in/age-and-gender-detection-using-deep-learning-python-flask/
+
